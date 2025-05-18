@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AuthECAPI.Controllers.HomeController",
+    "Method": "AddUser",
+    "RelativePath": "api/Home/postuser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRequest",
+        "Type": "AuthECAPI.Models.RegUsers",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
